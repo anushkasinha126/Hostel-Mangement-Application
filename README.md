@@ -1,5 +1,5 @@
 # Hostel-Mangement-Application
-•	This is an android application for hostel management system. Android Studio and Firebase are used to develop this application. There’s an Admin Login and a Resident’s Board activity. 
+•	This is an android application for hostel management system. JAVA and Firebase are used to develop this application. There’s an Admin Login and a Resident’s Board activity. 
 
 •	Admin are allowed to register the residents of hostel (Students and staff), add notice to the resident’s board and details of the rooms.
 
